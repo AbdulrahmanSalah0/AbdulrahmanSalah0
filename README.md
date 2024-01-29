@@ -3,7 +3,6 @@
 
 I am a data analyst and interesting with other fields like IOT and data engineer
 
-<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zyb2cnWoIBLJm-OXfVqdZ8qFmpqUc_FCxW1oEo9nMr2n6yibkXDN5HvBHM4Y2F0GQ-c&usqp=CAU" alt="gif">
 Skills: 
 * Java 
 * Python 
@@ -12,6 +11,7 @@ Skills:
 * C++
 * R 
 * ML
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zyb2cnWoIBLJm-OXfVqdZ8qFmpqUc_FCxW1oEo9nMr2n6yibkXDN5HvBHM4Y2F0GQ-c&usqp=CAU" alt="gif">
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Science  
