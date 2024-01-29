@@ -4,13 +4,13 @@
 I am a data analyst and interesting with other fields like IOT and data engineer
 
 Skills: 
-*Java 
-*Python 
-*SQL
-*Cloud
-*C++
-*R 
-*ML
+* Java 
+* Python 
+* SQL
+* Cloud
+* C++
+* R 
+* ML
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Science  
