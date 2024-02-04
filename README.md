@@ -1,7 +1,7 @@
 ### Hi there 👋, Iam Abdulrahman Salah 
 ![](https://wallpapercave.com/wp/wp9904460.png)
 
-I am a data analyst and interesting with other fields like IOT and data engineer
+I'm a data analyst and interested in other fields like IoT and data engineering.
 
 Skills: 
 * Java 
