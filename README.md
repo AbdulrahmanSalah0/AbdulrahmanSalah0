@@ -1,95 +1,94 @@
-<h1 align="center">Hi there, I'm Abdulrahman Salah 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Machine Learning Engineer · AI Engineer · Data Scientist</b><br/>
-  Alexandria, Egypt 🇪🇬
-</p>
+![AI Banner](https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&h=300&fit=crop&crop=center)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdulrahman-salah-525960290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abdulrahmansalah107@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/AbdulrahmanSalah0">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+# Hi, I'm Abdulrahman Salah 👋
+
+**Machine Learning Engineer · AI Engineer · Data Scientist**
+
+Alexandria, Egypt 🇪🇬
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-salah-525960290/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmansalah107@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulrahmanSalah0)
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-Machine Learning Engineer with **2+ years** of hands-on experience building end-to-end AI systems — from data pipelines and model training to production deployment.
+Machine Learning Engineer with **2+ years** of hands-on experience building and deploying end-to-end AI systems — from data pipelines and model training to production APIs.
 
-- 🏆 Built a **YOLOv8-based license plate recognition system** achieving **98% automation accuracy** (Best Graduation Project)
-- 🤖 Deployed **RAG pipelines & LLM applications** to an audience of **150K+ users** via Hsoub Academy
-- 👨‍🏫 Led a team of **8 instructors** and trained **100+ students** in AI, ML & Data Science
-- 🎯 Specialized in **Computer Vision**, **NLP**, **LLMs**, and **scalable ML deployment**
+- 🏆 Built a **YOLOv8-based license plate recognition system** achieving **98% automation accuracy** — awarded **Best Graduation Project**
+- 🤖 Deployed **RAG pipelines & LLM applications** reaching **150K+ subscribers** at Hsoub Academy (حاسوب)
+- 👨‍🏫 Led a team of **8 instructors** delivering AI & ML courses to **100+ students**
+- 🎯 Core expertise: **Computer Vision · NLP · LLMs · RAG · MLOps**
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience Highlights
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 🎓 AI & Coding Instructor | Team Leader *(Remote – Saudi Arabia · Jun 2024 – Present)*
+- Delivered interactive **AI, ML, Python & Database** courses to **100+ students**, increasing course completion rates by **40%**
+- Designed a full AI curriculum integrating real-world **ML deployment and MLOps workflows**, cutting student ramp-up time by **30%**
+- Mentored capstone projects in **Computer Vision & NLP** — from data collection through model deployment
+- Recruited, trained & supervised **8 instructors**; feedback loops improved student engagement by **50%**
 
-### ML & AI Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### 📹 AI Content Creator | [حاسوب — Hsoub Academy](https://www.youtube.com/@hsoub) *(Apr 2025 – Jan 2026)*
+> 150K+ subscribers · Production-level AI tutorials
 
-### Deployment & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Developed and deployed **RAG pipelines & LLM applications** using **LangChain, Hugging Face & FAISS** — achieving **<2s query latency**
+- Built interactive demos with **Streamlit & Gradio** illustrating model serving and vector search
+- Authored production-oriented tutorials translating complex AI into actionable workflows → **4.8/5 learner satisfaction**
 
-### Databases
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 💻 Freelance AI / ML Developer *(Jul 2023 – Present)*
+- Delivered **5+ consulting projects** with consistent **5-star client ratings** — predictive dashboards to custom NLP classifiers
+- Built full ML pipelines: data wrangling → feature engineering → model selection (CNN, Transformer, Random Forest) → deployment
+- Deployed via **REST APIs** to cloud endpoints, reducing time-to-insight by **60%**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🅿️ El-Sayes Smart Parking System *(Graduation Project — 1st Place)*
-> AI-powered license plate recognition pipeline using **YOLOv8 + OCR**, integrated with a **Supabase** real-time backend for reservations, billing, and automation.
-- ✅ 98% automation accuracy
-- ✅ 40% reduction in average parking time
-- ✅ Awarded Best Graduation Project
+### 🅿️ El-Sayes Smart Parking System *(Best Graduation Project 🏆)*
+> YOLOv8 + OCR + Supabase real-time backend
+- ✅ **98% automation accuracy** · 40% reduction in parking time
 
 ### 🤖 RAG-Based AI Systems
-> Retrieval-augmented generation pipelines using **LangChain**, **Hugging Face**, and **FAISS** for semantic search and document retrieval.
-- ✅ 35% improvement in knowledge retrieval precision
-- ✅ <2s query latency
-- ✅ Deployed via Streamlit & Gradio
+> LangChain + Hugging Face + FAISS vector search
+- ✅ **35% better retrieval precision** · <2s latency · Deployed to 150K+ users
 
 ### ✍️ Arabic Handwritten Digit Recognition
-> Compared **CNN**, **ANN**, and **Random Forest** models for Arabic digit classification with a real-time Tkinter GUI.
-- ✅ 95%+ classification accuracy
+> CNN vs ANN vs Random Forest + real-time Tkinter GUI
+- ✅ **95%+ classification accuracy**
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSalah0&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSalah0&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+### Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanSalah0&theme=tokyonight&hide_border=true"/>
-</p>
+### Vision & NLP
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+### Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Data & Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -101,10 +100,10 @@ Machine Learning Engineer with **2+ years** of hands-on experience building end-
 
 ---
 
-## 📫 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdulrahman-salah-525960290/">LinkedIn</a> •
-  <a href="mailto:abdulrahmansalah107@gmail.com">Email</a> •
-  <a href="https://github.com/AbdulrahmanSalah0">GitHub</a>
-</p>
+*"Building AI systems that work in the real world — not just in notebooks."*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-salah-525960290/)
+
+</div>
