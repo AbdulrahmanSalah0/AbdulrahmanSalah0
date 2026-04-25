@@ -35,7 +35,7 @@ Machine Learning Engineer with **2+ years** of hands-on experience building and 
 - Mentored capstone projects in **Computer Vision & NLP** — from data collection through model deployment
 - Recruited, trained & supervised **8 instructors**; feedback loops improved student engagement by **50%**
 
-### 📹 AI Content Creator | [حاسوب — Hsoub Academy](https://www.youtube.com/@hsoub) *(Apr 2025 – Jan 2026)*
+### 📹 AI Content Creator | [حاسوب — Hsoub Academy](https://www.youtube.com/@HsoubAcademy) *(Apr 2025 – Jan 2026)*
 > 150K+ subscribers · Production-level AI tutorials
 
 - Developed and deployed **RAG pipelines & LLM applications** using **LangChain, Hugging Face & FAISS** — achieving **<2s query latency**
